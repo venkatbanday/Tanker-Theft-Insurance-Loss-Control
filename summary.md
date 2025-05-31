@@ -1,14 +1,14 @@
-# Transport Software for Competitive Bidding
+# Tanker Theft & Insurance Loss Control
 
 **Overview:**  
-Transport was managed manually with limited outreach and pre-negotiated rates, leading to inefficiencies.
+Tankers experienced frequent tilting and material theft, leading to growing insurance claims and threats to policy renewals.
 
 **Steps Taken:**  
-- Developed a custom transport software allowing rate bidding.
-- Introduced alert system for resubmission of lower bids.
-- Enforced service-level agreements with escalation clauses.
+- Replaced plastic seals with high-security, tamper-evident mechanisms.
+- Implemented compartment dip gauge system for precise tracking.
+- Conducted a police-led investigation, recovering stolen material and apprehending a driver.
 
 **Results:**  
-- Reduced freight costs by 18%.
-- Improved vendor competition and reliability.
-- Ensured dispatch integrity and system transparency.
+- Dramatic reduction in fraudulent claims.
+- Insurance policy preserved and premium increases avoided.
+- Increased accountability and traceability in transport operations.
