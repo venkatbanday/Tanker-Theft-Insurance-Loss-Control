@@ -1,14 +1,19 @@
 # Tanker Theft & Insurance Loss Control
 
-**Overview:**  
-Tankers experienced frequent tilting and material theft, leading to growing insurance claims and threats to policy renewals.
+Tanker Theft & Insurance Loss Control – 3F Industries, India
 
-**Steps Taken:**  
-- Replaced plastic seals with high-security, tamper-evident mechanisms.
-- Implemented compartment dip gauge system for precise tracking.
-- Conducted a police-led investigation, recovering stolen material and apprehending a driver.
+Overview:
 
-**Results:**  
-- Dramatic reduction in fraudulent claims.
-- Insurance policy preserved and premium increases avoided.
-- Increased accountability and traceability in transport operations.
+Designed and executed a risk control strategy to eliminate theft and reduce insurance claims during tanker logistics.
+
+Key Achievements:
+
+• Replaced tamper-prone plastic seals with high-security industrial seal mechanisms.
+
+• Deployed dip gauge systems to validate tanker fill levels before dispatch.
+
+• Exposed systematic driver-led theft, leading to successful prosecution and cost recovery.
+
+Keywords:
+
+Risk Management | Logistics Security | Insurance Fraud Prevention | Asset Protection | Compliance | Dip Gauge Technology | Supply Chain Integrity | Transport Audits
